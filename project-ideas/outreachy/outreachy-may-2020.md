@@ -62,3 +62,21 @@ https://api.slack.com/bot-users#bots-overview
 **Potential Mentors**:
 [Ramya Ragupathy](https://www.hotosm.org/people/ramya-ragupathy/)
 [Dakota Benjamin](https://www.hotosm.org/people/dakota-benjamin/)
+
+**HOT Product Evaluation: Human Centred, User Experience Design:**
+Project Description: HOT has a number of products that have seen multiple successes over the past 10 years. The products have evolved from humble beginnings into some of the most used tools in the OSM community. We would like to get a sense of how our products are used, and by whom by conducting an evaluation driven by user experience and human centred design philosophies. We want to understand where the value in each of our products lies and how we can enhance their accessibility and useability for a variety of users.
+
+Some key skills/aspects of the project include:
+* Undertaking user and community based research to understand end user needs
+* Using UX research to identify pain points for current users
+* Identify key value propositions within the current product suite
+* Complete Persona Mapping to identify key user groups for the current product suite. 
+
+**Skills:** Human Centred Design, User Experience Design Curiosity 🐱 and lots of perseverance 🏆
+Difficulty Level: Intermediate
+Related readings/links:
+https://www.hotosm.org/tools-and-data
+
+**Potential Mentors:**
+Bo Percival
+
